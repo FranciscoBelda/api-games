@@ -1,0 +1,26 @@
+{
+  "name": "05-api-games",
+  "version": "1.0.0",
+  "description": "API con NodeJs, express y MySQL",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -w",
+    "dev": "node --watch build/index.js",
+    "start": "node build/index.js"
+  },
+  "keywords": [],
+  "author": "Francisco Belda",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "morgan": "^1.10.1",
+    "promise-mysql": "^5.2.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/morgan": "^1.9.10"
+  }
+}
