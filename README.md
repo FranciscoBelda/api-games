@@ -97,6 +97,6 @@ app.use(cors({
 
 ---
 
-**Autor:** [Francisco Belda](https://www.google.com/search?q=https://github.com/FranciscoBelda)
+**Autor:** [Francisco Belda](https://github.com/FranciscoBelda)
 
 **Proyecto:** Backend para el curso de Desarrollo de Aplicaciones Web.
